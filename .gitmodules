@@ -1,0 +1,15 @@
+[submodule "MX_Alps_Hybrid.pretty"]
+	path = MX_Alps_Hybrid.pretty
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.pretty
+[submodule "Molex-0548190589.pretty"]
+	path = Molex-0548190589.pretty
+	url = https://github.com/ai03-2725/Molex-0548190589.pretty
+[submodule "Type-C.pretty"]
+	path = Type-C.pretty
+	url = https://github.com/ai03-2725/Type-C.pretty
+[submodule "WS2812B.pretty"]
+	path = WS2812B.pretty
+	url = https://github.com/ai03-2725/WS2812B.pretty
+[submodule "random-keyboard-parts.pretty"]
+	path = random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
