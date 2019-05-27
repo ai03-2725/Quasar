@@ -4,9 +4,8 @@ A replacement controller for the IBM Model M Space Saving keyboard
 ![Render](https://raw.githubusercontent.com/ai03-2725/Quasar/master/Renders/Front.png)
 
 ### Features 
-* atmega32u4-based
-* USB Type-C
-* Break-away PCB for compatibility with 150mm and 170mm controller positions
+* ATmega32u4-based
+* USB-B
 
 ### Credits
 * Antonizoon's [Model M USB controller research](https://github.com/antonizoon/antonizoon.github.io/wiki/IBM-Model-M-USB-Controller)
