@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.2)-1*
-G04 #@! TF.CreationDate,2019-05-27T01:23:31-07:00*
+G04 #@! TF.CreationDate,2019-05-27T01:30:26-07:00*
 G04 #@! TF.ProjectId,ssk-controller,73736b2d-636f-46e7-9472-6f6c6c65722e,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Soldermask,Top*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.2)-1) date 2019-05-27 01:23:31*
+G04 Created by KiCad (PCBNEW (5.1.2)-1) date 2019-05-27 01:30:26*
 %MOMM*%
 %LPD*%
 G04 APERTURE LIST*
