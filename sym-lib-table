@@ -2,4 +2,5 @@
   (lib (name Type-C)(type Legacy)(uri ${KIPRJMOD}/Type-C.pretty/Type-C.lib)(options "")(descr ""))
   (lib (name ai03-locallib)(type Legacy)(uri ${KIPRJMOD}/locallib.pretty/schema/ai03-locallib.lib)(options "")(descr ""))
   (lib (name random-keyboard-parts)(type Legacy)(uri "C:/Users/Ryota/Documents/GitHub/Equinox/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name ssk-controller-rescue)(type Legacy)(uri ${KIPRJMOD}/ssk-controller-rescue.lib)(options "")(descr ""))
 )
